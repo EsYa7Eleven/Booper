@@ -1,0 +1,36 @@
+body{
+  background-color: rgb(145, 106, 107);
+}
+
+
+h1{
+  color:rgb(25, 25, 150);
+}
+
+h3{
+  color:rgb(25, 25, 200);
+}
+
+h5{
+  color:rgb(150, 150, 150);
+}
+
+h6{
+  color:rgb(200, 200, 200); font-size=2px;
+}
+
+.good{
+  color:green;
+}
+
+.neutral{
+  color:yellow;
+}
+
+.bad{
+  color:red;
+}
+
+.secrets{
+  color:rgb(245, 245, 245)
+}
